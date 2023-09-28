@@ -8,3 +8,16 @@
 	align-items: baseline;
 	flex-wrap: wrap;
 }
+
+.home__container--white{
+	width: 100%;
+	margin: auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #fff;
+	display: flex;
+
+	justify-content: space-around;
+	align-items: baseline;
+	flex-wrap: wrap;
+}
