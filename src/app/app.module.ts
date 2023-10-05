@@ -12,6 +12,7 @@ import { ButtonComponent } from './components/button/button.component';
 import { RangeComponent } from './components/range/range.component';
 import { BlockComponent } from './components/block/block.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { NewsletterComponent } from './components/newsletter/newsletter.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { FooterComponent } from './components/footer/footer.component';
     ButtonComponent,
     RangeComponent,
     BlockComponent,
-    FooterComponent
+    FooterComponent,
+    NewsletterComponent
   ],
   imports: [
     BrowserModule,

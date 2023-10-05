@@ -1,0 +1,41 @@
+div {
+    width: 100vw;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Segoe UI';
+    background-color: #2c2c2c;
+}
+
+h2 {
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+form {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-bottom: 15px;
+}
+
+input {
+    padding: 15px;
+    width: 70%;
+    margin: 0;
+}
+
+button {
+    padding: 15px;
+    background-color: #0070cc;
+    color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #004c8a;
+}
